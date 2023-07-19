@@ -33,6 +33,6 @@ Are you interested in more Streamlit demos related to financial data?
 
 # Contact
 
-Developed by Darío López Padial (Bukosabino).
+Developed by Arthur Kaza @ArthurStarks.
 
 Please, let me know about any comment or feedback.
